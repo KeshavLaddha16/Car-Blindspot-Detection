@@ -32,7 +32,7 @@ YOLOv7 compared to other models.
 
 ![image](https://user-images.githubusercontent.com/96363330/230222287-c0c1582d-6ef4-4197-8516-5ccd6049fa25.png)
 
-In order to run the network you will have to download the pre-trained YOLO weight file.
+In order to run the network you will have to download the pre-trained YOLO weight file. This YOLO weight file needs to be put in yolo-coco folder before running the code.
 
 https://github.com/AlexeyAB/darknet/releases/download/yolov4/yolov7.weights
 
